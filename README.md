@@ -34,16 +34,16 @@ Welcome to **TechTutorials - The Smart Study Zone**, a comprehensive educational
 
 ## 📂 Project Structure
 
-TechTutorials-The-Smart-Study-Zone-Website/
-│
-├── index.html # Main landing page
-├── css/
-│ └── styles.css # Stylesheets
-├── js/
-│ └── scripts.js # JavaScript files
-├── assets/
-│ └── images/ # Images and icons
-└── README.md # Project documentation
+TechTutorials-The-Smart-Study-Zone-Website/ <br>
+│  <br>
+├── index.html # Main landing page  <br>
+├── css/  <br>
+│ └── styles.css # Stylesheets  <br>
+├── js/  <br>
+│ └── scripts.js # JavaScript files  <br>
+├── assets/  <br>
+│ └── images/ # Images and icons  <br>
+└── README.md # Project documentation  <br>
 
 ## 🔒 Security & Legitimacy Notice
 This project is 100% safe and legitimate. It is an educational website containing only static content (HTML, CSS, JavaScript) with no forms that collect personal information, no login system, and no third-party tracking or malicious scripts.
